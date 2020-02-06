@@ -5,8 +5,7 @@ import AddData from './Components/AddData';
 function App() {
   return (
     <>
-    <GetAllData/>
-    <AddData/>
+    <p>test</p>
     </>
   );
 }
