@@ -1,11 +1,13 @@
 import React from 'react';
 import GetAllData from './Components/GetAllData';
 import AddData from './Components/AddData';
+import './App.css';
 
 function App() {
   return (
     <>
-    <p>test</p>
+    <GetAllData/>
+    <AddData/>
     </>
   );
 }
